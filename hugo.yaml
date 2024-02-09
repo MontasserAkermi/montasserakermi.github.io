@@ -1,0 +1,7 @@
+baseURL: https://montasserakermi.github.io/
+languageCode: en-us
+title: Montasser AKERMI
+theme: ["PaperMod"]
+params:
+  defaultTheme: light
+  disableThemeToggle: true
