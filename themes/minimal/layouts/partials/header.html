@@ -1,0 +1,8 @@
+<h1><a href="{{ absURL "" }}">{{ site.Title }}</a></h1>
+{{ with resources.Get "img/profile_pic.jpg" }}
+  <img src="{{ .RelPermalink }}" width="70%" height="70%" alt="Logo">
+{{ end }}
+
+{{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+
+<p>{{ .Description }}</p>
