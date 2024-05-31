@@ -264,10 +264,14 @@
   background-color: #f8f8f8;
 }
 
+html {
+  font-size: 62.5%;
+}
+
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 1.6rem "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
 }
@@ -286,7 +290,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:2.8rem;
 }
 
 h2 {
@@ -298,17 +302,17 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#267CB9;
+  color:#A41E24;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#069;
+  color:#8B0000;
   font-weight: bold;
 }
 
 a small {
-  font-size:11px;
+  font-size:1.2rem;
   color:#777;
   margin-top:-0.3em;
   display:block;
@@ -375,7 +379,7 @@ kbd {
   box-shadow: inset 0 -1px 0 #959da5;
   color: #444d56;
   display: inline-block;
-  font-size: 11px;
+  font-size:1.2rem;
   line-height: 10px;
   padding: 3px 5px;
   vertical-align: middle;
@@ -415,7 +419,7 @@ ul.downloads {
 
 .downloads a {
   line-height:1;
-  font-size:11px;
+  font-size:1.2rem;
   color:#676767;
   display:block;
   text-align:center;
@@ -443,7 +447,7 @@ strong {
 }
 
 .downloads a strong {
-  font-size:14px;
+  font-size:1.6rem;
   display:block;
   color:#222;
 }
@@ -455,7 +459,7 @@ section, main {
 }
 
 small {
-  font-size:11px;
+  font-size:1.2rem;
 }
 
 hr {
@@ -543,7 +547,7 @@ footer {
 @media print {
   body {
     padding:0.4in;
-    font-size:12pt;
+    font-size:1.3rem;
     color:#444;
   }
 }
