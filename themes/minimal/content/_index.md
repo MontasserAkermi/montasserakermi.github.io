@@ -10,7 +10,7 @@ montasser.akermi@fss.usf.tn | montaccep@gmail.com
 
 [Google Scholar](https://scholar.google.com/citations?user=3sPaBCYAAAAJ&hl=en "Montasser AKERMI - Google Scholar") | [LinkedIn](https://www.linkedin.com/in/makermi/ "Montasser AKERMI | LinkedIn")
 
-Montasser AKERMI is a doctoral researcher specializing in data management, with a focus on data architecture, metadata management, and data governance.
+Montasser AKERMI is a graduate teaching assistant at the University of Sfax, Tunisia, where he works on data management, with a focus on data architecture, metadata management, and data governance.
 
 # Teaching
 
