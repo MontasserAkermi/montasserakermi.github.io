@@ -3,24 +3,16 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 
 [[menus.main]]
-name = 'Research'
-pageRef = '/research'
+name = 'Teaching'
+pageRef = '/teaching'
+url = '#teaching'
 weight = 10
 
 [[menus.main]]
-name = 'Learning'
-pageRef = '/learning'
+name = 'Publications'
+pageRef = '/publications'
+url = '#publications'
 weight = 20
-
-[[menus.main]]
-name = 'Blog'
-pageRef = '/blog'
-weight = 30
-
-[[menus.main]]
-name = 'Teaching'
-pageRef = '/teaching'
-weight = 40
 
 [module]
   [module.hugoVersion]
